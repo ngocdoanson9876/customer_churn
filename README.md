@@ -1,7 +1,7 @@
 <div align="center">
-# 📊 Tên Project: [Điền tên project của bạn]
+# 📊 Customer Churn Analytics:
  
-### Phân tích [chủ đề dữ liệu] nhằm [mục tiêu chính, ví dụ: tối ưu doanh thu / dự đoán churn khách hàng]
+### Customer churn is a key concern for subscription-based businesses, where retaining existing customers is often more valuable than acquiring new ones. This project explores a simulated dataset of 20,000 customers to identify which factors — such as contract type, support calls, and tenure — are most associated with churn, using exploratory data analysis and segmentation techniques in Python.
  
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas)](https://pandas.pydata.org/)
