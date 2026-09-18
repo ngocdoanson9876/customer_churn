@@ -9,6 +9,5 @@
 [![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
  
-[Xem Dashboard Live](#) · [Xem Notebook](#) · [Báo cáo PDF]
  
 </div>
