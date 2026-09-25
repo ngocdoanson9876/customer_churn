@@ -92,8 +92,6 @@ flowchart LR
  
 ## 💡 Key Insights
  
-> Replace placeholder images with your actual charts (dashboard screenshots, matplotlib plots...)
- 
 | Insight | Evidence |
 |---|---|
 | 🔹 Customers in their first 12 months churn at 47.58%, notably higher than the 31-32% churn rate seen among longer-tenured customers, after which the rate stabilizes | ![chart](./images/chart1.png) |
