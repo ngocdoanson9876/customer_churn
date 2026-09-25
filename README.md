@@ -6,8 +6,6 @@
  
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas)](https://pandas.pydata.org/)
-[![SQL](https://img.shields.io/badge/SQL-Querying-orange?logo=postgresql)](#)
-[![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
  
 </div>
@@ -21,9 +19,6 @@
 - [Tech Stack](#-tech-stack)
 - [Analysis Workflow](#-analysis-workflow)
 - [Key Insights](#-key-insights)
-- [Results & Recommendations](#-results--recommendations)
-- [Project Structure](#-project-structure)
-- [How to Run](#-how-to-run)
 - [Contact](#-contact)
 ---
  
@@ -37,9 +32,10 @@
  
 ## ❓ Business Questions
  
-- Question 1: *[e.g., Which customer segment has the highest churn risk?]*
-- Question 2: *[e.g., What factor most influences revenue by region?]*
-- Question 3: *[e.g., How does purchasing behavior change seasonally?]*
+- Question 1: *What is the current churn situation?*
+- Question 2: *What factors are associated with churn?*
+- Question 3: *Which customer groups have high churn rates?*
+- Question 4: *Which groups should the business focus on retaining?*
 ---
  
 ## 🗂 Dataset
@@ -75,7 +71,6 @@
 <td>Jupyter Notebook, Excel, Git</td>
 </tr>
 </table>
----
  
 ## 🔄 Analysis Workflow
  
@@ -101,59 +96,9 @@ flowchart LR
  
 | Insight | Evidence |
 |---|---|
-| 🔹 [e.g., 20% of VIP customers generate 60% of revenue] | ![chart](./images/chart1.png) |
-| 🔹 [e.g., Highest churn rate is among Free-tier users] | ![chart](./images/chart2.png) |
-| 🔹 [e.g., Revenue peaks sharply every Q4] | ![chart](./images/chart3.png) |
- 
----
- 
-## ✅ Results & Recommendations
- 
-- **Result 1:** [Summarize the most important finding]
-- **Result 2:** [Second finding]
-- **Recommended actions:**
-  - [e.g., Focus retention campaigns on high-churn-risk segments]
-  - [e.g., Reallocate marketing budget toward regions with the highest ROI]
-**Expected impact:** [e.g., Could reduce churn rate by 15% / increase revenue by 8% if implemented]
- 
----
- 
-## 📁 Project Structure
- 
-```
-project-name/
-│
-├── data/
-│   ├── raw/                # Raw data
-│   └── processed/          # Cleaned/processed data
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   └── 03_analysis.ipynb
-│
-├── images/                 # Charts, dashboard screenshots
-├── src/                     # Reusable Python scripts
-├── report.pdf               # Summary report (if any)
-├── requirements.txt
-└── README.md
-```
- 
----
- 
-## ▶️ How to Run
- 
-```bash
-# 1. Clone the repository
-git clone https://github.com/username/project-name.git
-cd project-name
- 
-# 2. Create a virtual environment and install dependencies
-pip install -r requirements.txt
- 
-# 3. Run the notebook
-jupyter notebook notebooks/01_data_cleaning.ipynb
-```
+| 🔹 Customers in their first 12 months churn at 47.58%, notably higher than the 31-32% churn rate seen among longer-tenured customers, after which the rate stabilizes | ![chart](./images/chart1.png) |
+| 🔹 Customers with monthly contracts (month-to-month) have a significantly higher churn rate than those with annual contracts (a difference of 22.26 percentage points) | ![chart](./images/chart2.png) |
+| 🔹 Customers without tech support — regardless of whether they have online security — churn at more than double the rate of those with tech support. Online security alone has little protective effect | ![chart](./images/chart3.png) |
  
 ---
  
@@ -165,7 +110,5 @@ jupyter notebook notebooks/01_data_cleaning.ipynb
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=googlechrome)](#)
- 
-⭐ If you found this project useful, consider leaving a star!
  
 </div>
