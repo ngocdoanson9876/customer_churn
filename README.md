@@ -31,7 +31,7 @@ Customer churn is a key concern for subscription-based businesses, where retaini
 - Question 1: *What is the current churn situation?*
 - Question 2: *What factors are associated with churn?*
 - Question 3: *Which customer groups have high churn rates?*
-- Question 4: *Which groups should the business focus on retaining?*
+- *Question 4: *Which groups should the business focus on retaining?*
 ---
  
 ## 🗂 Dataset
