@@ -22,7 +22,7 @@
  
 ## 🔍 Overview
  
-**Example:** Customer churn is a key concern for subscription-based businesses, where retaining existing customers is often more valuable than acquiring new ones. This project explores a simulated dataset of 20,000 customers to identify which factors — such as contract type, support calls, and tenure — are most associated with churn, using exploratory data analysis and segmentation techniques in Python.
+Customer churn is a key concern for subscription-based businesses, where retaining existing customers is often more valuable than acquiring new ones. This project explores a simulated dataset of 20,000 customers to identify which factors — such as contract type, support calls, and tenure — are most associated with churn, using exploratory data analysis and segmentation techniques in Python.
  
 ---
  
@@ -52,15 +52,15 @@
 <table>
 <tr>
 <td><b>Processing & Analysis</b></td>
-<td>Python (Pandas, NumPy), SQL</td>
+<td>Python (Pandas, NumPy)</td>
 </tr>
 <tr>
 <td><b>Visualization</b></td>
-<td>Matplotlib, Seaborn, Power BI / Tableau</td>
+<td>Matplotlib, Seaborn</td>
 </tr>
 <tr>
 <td><b>Statistics / ML</b></td>
-<td>Scikit-learn, Statsmodels</td>
+<td>SciPy</td>
 </tr>
 <tr>
 <td><b>Other Tools</b></td>
