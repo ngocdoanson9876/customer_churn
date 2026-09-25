@@ -1,8 +1,6 @@
 <div align="center">
 
 # Customer Churn Analytics:
-
-### Customer churn is a key concern for subscription-based businesses, where retaining existing customers is often more valuable than acquiring new ones. This project explores a simulated dataset of 20,000 customers to identify which factors — such as contract type, support calls, and tenure — are most associated with churn, using exploratory data analysis and segmentation techniques in Python.
  
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas)](https://pandas.pydata.org/)
@@ -24,9 +22,7 @@
  
 ## 🔍 Overview
  
-> Write 3-4 sentences summarizing what data you analyzed, why, and the most notable result.
- 
-**Example:** This project analyzes the purchasing behavior of over 50,000 customers over a 2-year period to identify the drivers of churn and recommend retention strategies. The analysis uncovered 3 key factors influencing churn, suggesting the business could reduce churn rate by 15% by implementing the proposed actions.
+**Example:** Customer churn is a key concern for subscription-based businesses, where retaining existing customers is often more valuable than acquiring new ones. This project explores a simulated dataset of 20,000 customers to identify which factors — such as contract type, support calls, and tenure — are most associated with churn, using exploratory data analysis and segmentation techniques in Python.
  
 ---
  
