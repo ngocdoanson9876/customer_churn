@@ -94,9 +94,9 @@ flowchart LR
  
 | Insight | Evidence |
 |---|---|
-| 🔹 Customers in their first 12 months churn at 47.58%, notably higher than the 31-32% churn rate seen among longer-tenured customers, after which the rate stabilizes | ![chart](./images/chart1.png) |
-| 🔹 Customers with monthly contracts (month-to-month) have a significantly higher churn rate than those with annual contracts (a difference of 22.26 percentage points) | ![chart](./images/chart2.png) |
-| 🔹 Customers without tech support — regardless of whether they have online security — churn at more than double the rate of those with tech support. Online security alone has little protective effect | ![chart](./images/chart3.png) |
+| 🔹 Customers in their first 12 months churn at 47.58%, notably higher than the 31-32% churn rate seen among longer-tenured customers, after which the rate stabilizes | ![chart](./imgs/tenure_churn_rates.png) |
+| 🔹 Customers with monthly contracts (month-to-month) have a significantly higher churn rate than those with annual contracts (a difference of 22.26 percentage points) | ![chart](./imgs/contract_churn_rates.png) |
+| 🔹 Customers without tech support — regardless of whether they have online security — churn at more than double the rate of those with tech support. Online security alone has little protective effect | ![chart](./imgs/ts_os_churn_rates.png) |
  
 ---
  
