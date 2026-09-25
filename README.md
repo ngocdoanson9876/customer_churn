@@ -42,12 +42,12 @@
  
 | Attribute | Detail |
 |---|---|
-| **Source** | [e.g., Kaggle / Company API / Web scraping] |
-| **Size** | [e.g., 50,000 rows × 15 columns] |
-| **Time period** | [e.g., Jan 2023 – Dec 2024] |
-| **Format** | CSV / SQL Database / JSON |
+| **Source** | Kaggle |
+| **Size** | 20,000 rows x 11 columns |
+| **Time period** | Jun 2026 - Jul 2026 |
+| **Format** | CSV |
  
-**Dataset link:** [link to dataset]
+**Dataset link:** [[link to dataset]](https://www.kaggle.com/datasets/sonalshinde123/customer-churn-prediction-dataset)
  
 ---
  
