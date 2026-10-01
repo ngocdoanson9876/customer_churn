@@ -104,7 +104,7 @@ flowchart LR
 <div align="center">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ngocdoanson9876@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](#mailto:ngocdoanson9876@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=googlechrome)](#)
  
 </div>
