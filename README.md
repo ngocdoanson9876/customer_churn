@@ -4,6 +4,7 @@
  
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas)](https://pandas.pydata.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ![](./dashboard/dashboard_page-0001.jpg)
@@ -58,7 +59,7 @@ Customer churn is a key concern for subscription-based businesses, where retaini
 </tr>
 <tr>
 <td><b>Visualization</b></td>
-<td>Matplotlib, Seaborn</td>
+<td>Matplotlib, Seaborn, Power BI</td>
 </tr>
 <tr>
 <td><b>Statistics / ML</b></td>
@@ -101,7 +102,7 @@ flowchart LR
 ## 📬 Contact
  
 <div align="center">
-**[Your Name]**
+**Swn**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](#)
