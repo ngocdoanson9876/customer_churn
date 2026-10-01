@@ -7,6 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ![](./dashboard/dashboard_page-0001.jpg)
+![](./dashboard/dashboard_page-0002.jpg)
 </div>
 
 ---
