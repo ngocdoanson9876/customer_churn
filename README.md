@@ -6,7 +6,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-(./dashboard/dashboard_page-0001.jpg)
+![](./dashboard/dashboard_page-0001.jpg)
 </div>
 
 ---
